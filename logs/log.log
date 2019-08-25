@@ -1,0 +1,4 @@
+25-08-2019 11:57:55.951 [34mINFO [0;39m com.example.demo.Controller.UserController.getAllUser - getAllUser is called
+25-08-2019 11:57:55.962 [34mINFO [0;39m com.example.demo.service.UserServiceImp.getUser - getUser in UserServiceImp called
+25-08-2019 11:57:55.963 [34mINFO [0;39m com.example.demo.dao.UserDaoImp.getUser - getUser of UserDaoImp called
+25-08-2019 11:57:55.963 [31mWARN [0;39m org.hibernate.orm.deprecation.createCriteria - HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
