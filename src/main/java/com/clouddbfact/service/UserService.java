@@ -1,8 +1,8 @@
-package com.example.demo.service;
+package com.clouddbfact.service;
 
 import java.util.List;
 
-import com.example.demo.model.User;
+import com.clouddbfact.model.User;
 
 public interface UserService {
 	public void createUser(User user);

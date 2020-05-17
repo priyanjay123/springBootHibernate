@@ -1,4 +1,4 @@
-package com.example.demo.dao;
+package com.clouddbfact.dao;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.example.demo.model.User;
+import com.clouddbfact.model.User;
 
 @Repository
 public class UserDaoImp implements UserDao {

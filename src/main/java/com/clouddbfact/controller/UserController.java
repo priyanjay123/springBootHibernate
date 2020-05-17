@@ -1,4 +1,4 @@
-package com.example.demo.Controller;
+package com.clouddbfact.controller;
 
 import java.util.List;
 
@@ -20,8 +20,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.example.demo.model.User;
-import com.example.demo.service.UserService;
+import com.clouddbfact.model.User;
+import com.clouddbfact.service.UserService;
 
 @RestController
 @RequestMapping(value = { "/user" })

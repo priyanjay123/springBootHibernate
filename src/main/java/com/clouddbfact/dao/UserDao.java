@@ -1,8 +1,8 @@
-package com.example.demo.dao;
+package com.clouddbfact.dao;
 
 import java.util.List;
 
-import com.example.demo.model.User;
+import com.clouddbfact.model.User;
 
 public interface UserDao {
 	public void addUser(User user);
